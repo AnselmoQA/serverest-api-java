@@ -1,0 +1,5 @@
+Java 17
+Maven 3.9+
+RestAssured 5.4.0
+JUnit Jupiter 5.10.1
+org.json
